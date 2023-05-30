@@ -19,7 +19,7 @@ component 구현
                 <input type="submit" value="Create"></input>
               </p>
 ```
-위에 부분은 create를 눌렀을 경우, title과 body부분으로 되어 있는데 그 두 부분의 간격을 띄우기 위해서 p태그를 사용함
+<h6>위에 부분은 create를 눌렀을 경우, title과 body부분으로 되어 있는데 그 두 부분의 간격을 띄우기 위해서 p태그를 사용함<h6>
 ---------------------------------------------------------------------------------------
 3. Nav.js에서 onChangePage이 부분 오류 수정
 ```javascript
