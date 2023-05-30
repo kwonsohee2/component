@@ -35,7 +35,7 @@ export default function Nav(props) {
           href={"/content/" + data.id}
           onClick={(e) => {
             e.preventDefault();
-            props.onChangePage(e.target.id); //이 부분에서 올바르지 않은 
+            props.onChangePage(e.target.id); -->이 부분에서 올바르지 않은 
             함수 사용으로 인하여 오류 발생한 것으로 보임.
           }}
         >
